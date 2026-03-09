@@ -1,6 +1,6 @@
 # JWT-Table - Burp Suite Extension
 
-JWT Viewer extension for Burp
+JWT dashbopard extension for Burp.
 
 ## 🚀 Features
 - A single view for all JWTs (Because lets be honest it needs it) found during your testing that intigrates with all other (as of today) JWT tools found in the Burp extensions market place.
