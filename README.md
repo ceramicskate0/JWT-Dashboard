@@ -3,8 +3,9 @@
 JWT Viewer extension for Burp
 
 ## 🚀 Features
-- A single view for all JWTs found during your pentest that intigrates with all other (as of today) JWT tools found in the Burp extensions market place.
-- Adds a prompt to intigrate with Gen AI
+- A single view for all JWTs (Because lets be honest it needs it) found during your testing that intigrates with all other (as of today) JWT tools found in the Burp extensions market place.
+- Makes 1 single view to work with JWTs in the tool vs a dozen little windows.
+- Adds a prompt to intigrate with Gen AI to expand on the other tools.
 
 ## 📋 Requirements
 
@@ -22,7 +23,9 @@ JWT Viewer extension for Burp
 5. Choose the py file and click **Next**
 
 ## 🎯 Usage
-- Tool runs passive. It will look for JWTs in Proxy history if you turn on extensions in you scanner.
+- Tool runs passive.
+- It will look for JWTs in Proxy history if you turn on extensions in you scanner.
+- From there you can stay in the tool or work with others ones through this extension
 
 ## 🛡 Security Notice
 
